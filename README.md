@@ -10,6 +10,7 @@ Dentro ogni documento troverai indicazioni su:
 
 ## Mappa dei file
 
+- [_navigazione.md](https://github.com/bnistor4/docs/blob/main/pages/_navigazione.md) — Struttura navigazione
 - [home.md](https://github.com/bnistor4/docs/blob/main/pages/home.md) — Panoramica iniziale con servizi, CTA e prove
 - [chi-siamo.md](https://github.com/bnistor4/docs/blob/main/pages/chi-siamo.md) — Storia, valori e team
 - [contatti.md](https://github.com/bnistor4/docs/blob/main/pages/contatti.md) — Form, recapiti, calendario
